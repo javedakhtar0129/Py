@@ -1,0 +1,3 @@
+Python rename() file is a method used to rename a file or a directory in
+Python programming. The Python rename() file method can be declared
+by passing two arguments named src (Source) and dst (Destination).
